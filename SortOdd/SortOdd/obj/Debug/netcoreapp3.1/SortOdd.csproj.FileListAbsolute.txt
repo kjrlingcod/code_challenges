@@ -1,0 +1,11 @@
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\obj\Debug\netcoreapp3.1\SortOdd.csprojAssemblyReference.cache
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\obj\Debug\netcoreapp3.1\SortOdd.AssemblyInfoInputs.cache
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\obj\Debug\netcoreapp3.1\SortOdd.AssemblyInfo.cs
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\bin\Debug\netcoreapp3.1\SortOdd.exe
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\bin\Debug\netcoreapp3.1\SortOdd.deps.json
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\bin\Debug\netcoreapp3.1\SortOdd.runtimeconfig.json
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\bin\Debug\netcoreapp3.1\SortOdd.runtimeconfig.dev.json
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\bin\Debug\netcoreapp3.1\SortOdd.dll
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\bin\Debug\netcoreapp3.1\SortOdd.pdb
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\obj\Debug\netcoreapp3.1\SortOdd.dll
+C:\Users\klingcod\source\repos\SortOdd\SortOdd\obj\Debug\netcoreapp3.1\SortOdd.pdb
